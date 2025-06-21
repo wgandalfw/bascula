@@ -1,0 +1,1 @@
+pyuic5 bascula.ui -o bascula.py

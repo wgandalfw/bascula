@@ -1,0 +1,1 @@
+python simulador.py --puerto COM2 --baudrate 1200 --tipo T
